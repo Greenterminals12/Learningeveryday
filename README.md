@@ -11,3 +11,4 @@ Day | Topic
 **4** | [<ul><li>How I made 25000 USD in bug bounties with reverse proxy </li><li> ANDROID APP SECURITY BASICS Static analysis - Part 1 </li><li> Android SSL Pinning Bypass for Bug Bounties & Penetration Testing</li><li> How to Master FFUF for Bug Bounties and Pen Testing</li><li> Android Internals 101: How Android OS Starts You Application</li><li> Solved Tryhackme Rooms</li></ul>](/Days/Day4.md)
 **5** | [<ul><li> NoSQL INJECTION FOR BEGINNERS<li> Solved Tryhackme Rooms</li></ul>](/Days/Day5.md)
 **6** | [<ul><li> Process Ghosting - Windows Red Teaming Technique</li><li> Solved Tryhackme Rooms</li><li> Finding bugs using WayBackMachine</li></ul>](/Days/Day6.md)
+**7** | [<ul><li> Exploits Explained: NoSQL Injection Returns Private Information</li><li> Read Zseano's Methodology</li></ul>](/Days/Day7.md)
