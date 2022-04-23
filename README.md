@@ -12,3 +12,4 @@ Day | Topic
 **5** | [<ul><li> NoSQL INJECTION FOR BEGINNERS<li> Solved Tryhackme Rooms</li></ul>](/Days/Day5.md)
 **6** | [<ul><li> Process Ghosting - Windows Red Teaming Technique</li><li> Solved Tryhackme Rooms</li><li> Finding bugs using WayBackMachine</li></ul>](/Days/Day6.md)
 **7** | [<ul><li> Exploits Explained: NoSQL Injection Returns Private Information</li><li> Read Zseano's Methodology</li></ul>](/Days/Day7.md)
+**8** | [<ul><li>Hacking A Drupal Website Drupalgeddon2</li><li> Proxy Server Simplified </li><li> Watch out the links : Account takeover!</li><li> A Detailed Guide on AMSI Bypass</li></ul>](/Days/Day8.md)
